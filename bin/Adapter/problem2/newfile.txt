@@ -1,0 +1,5 @@
+#written by FileProperties
+#Sun Dec 08 20:28:10 JST 2019
+day=21
+year=2004
+month=4
